@@ -26,4 +26,4 @@
 
 ## Scientific Publications
 
-* Labibov, R. R., et al. "Strips of localization of plastic deformation." Archive of Applied Mechanics 88.12 (2018): 2221-2230. DOI: https://doi.org/10.1007/s00419-018-1445-z
+* Labibov, R. R., et al. "Strips of localization of plastic deformation." Archive of Applied Mechanics 88.12 (2018): 2221-2230. DOI: [10.1007/s00419-018-1445-z](https://doi.org/10.1007/s00419-018-1445-z).
