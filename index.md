@@ -4,6 +4,7 @@
   * [Waves on Surfaces](https://postrediori.github.io/WavesOnSurfaces) &ndash; Simulation of elastic body waves specific for a surface of a 3D rigid body.
   * [Waves in Solids](https://postrediori.github.io/WavesInSolids) &ndash; Simulation of elastic body waves.
   * [Terrain Erosion](https://postrediori.github.io/TerrainErosion) &ndash; Simulation of hydraulic erosion caused by perpetual rain and motion of sediments from hills to hollows.
+  * [WebGlShaderCrash](https://github.com/Postrediori/WebGlShaderCrash) &ndash; Research of Windows-specific WebGL shader crash.
 
 * OpenGL & C++ demos
   * [OceanSimulation](https://github.com/Postrediori/OceanSimulation) &ndash; Ocean Simulation Based on a Model By Keith Lantz.
@@ -15,6 +16,7 @@
   * [MinimalImGui](https://github.com/Postrediori/MinimalImGui) &ndash; Autobuild project with OpenGL+ImGui using CMake.
   * [SDLImGui](https://github.com/Postrediori/SDLImGui) &ndash; Minimal GUI example project using ImGui, SDL2, OpenGL 2.0 and CMake.
   * [MinimalCimgui](https://github.com/Postrediori/MinimalCimgui) &ndash; Project with cimgui+GLFW using CMake.
+  * [WebGlCube](https://github.com/Postrediori/WebGlCube) &ndash; Minimal WebGL scene.
 
 * Python projects
   * [OctaGlobe](https://github.com/Postrediori/OctaGlobe) &ndash; Python script to map an equirectangular (cylindrical projection) map or a panoramic image into an eight-sided polyhedron (OctaGlobe).
@@ -26,4 +28,4 @@
 
 ## Scientific Publications
 
-* Labibov, R. R., et al. "Strips of localization of plastic deformation." Archive of Applied Mechanics 88.12 (2018): 2221-2230. DOI: [10.1007/s00419-018-1445-z](https://doi.org/10.1007/s00419-018-1445-z).
+* Labibov, R. R., et al. "Strips of localization of plastic deformation." Archive of Applied Mechanics 88.12 (2018): 2221&ndash;2230. DOI: [10.1007/s00419-018-1445-z](https://doi.org/10.1007/s00419-018-1445-z).
